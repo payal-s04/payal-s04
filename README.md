@@ -5,5 +5,5 @@
 - 👯 I’m love Math, Puzzles, Music and Books
 - 💬 Ask me about ...
 - 📫 How to reach me:
-      office: [LinkedIn] (https://www.linkedin.com/in/payal-sharma-04/)
+   - 🏢[LinkedIn](https://www.linkedin.com/in/payal-sharma-04/)
       
