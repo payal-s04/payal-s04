@@ -6,7 +6,7 @@ About me :
 
 - 🔭 I’m currently working on Data Structures and Algorithm | Web Development
 - 🌱 I’m currently learning Linux | Java
-- 👯 I’m love Math, Puzzles, Music and Books
+- 👯 I love Math, Puzzles, Music and Books
 - 📫 How to reach me:
    - 🏢[LinkedIn](https://www.linkedin.com/in/payal-sharma-04/)
 
