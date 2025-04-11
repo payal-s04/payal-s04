@@ -1,17 +1,33 @@
-### Hi there 👋
+# 👋 Hi there! I'm Payal Sharma.
 
-This is Payal Sharma.....
+I'm a passionate tech enthusiast with a B.Tech in Information Technology. After dedicating a year to government exam preparation, I'm now fully focused on transitioning into the world of **Data Science**.
 
-About me :
+---
 
-- 🔭 I’m currently working on Data Structures and Algorithm | Web Development
-- 🌱 I’m currently learning Linux | Java
-- 👯 I love Math, Puzzles, Music and Books
-- 📫 How to reach me:
-   - 🏢[LinkedIn](https://www.linkedin.com/in/payal-sharma-04/)
+### 🔧 What I'm Working On
 
+- Building hands-on data science projects to sharpen my skills  
+- Learning tools like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**  
+- Improving my knowledge in **Statistics**, **Probability**, and **Machine Learning**  
+- Practicing Python & SQL for data manipulation and analysis  
+- Brushing up on **Data Structures & Algorithms** on LeetCode and CodeSignal
 
-[![My github stats](https://github-readme-stats.vercel.app/api?username=payal-s04&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+---
 
+### 🎯 2025 Goals
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=payal-s04)](https://github.com/anuraghazra/github-readme-stats) -->
+- 📊 Create a strong portfolio of data science projects  
+- 🧠 Contribute to open-source data science projects  
+- 💼 Land a Data Scientist role at a top company like **Google**
+
+---
+
+### 📫 Let's Connect!
+
+- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-url)  
+- 🧠 [LeetCode](https://leetcode.com/your-profile)  
+- 💻 [Portfolio Website](https://your-portfolio.com) *(if you have or plan to make one)*  
+
+---
+
+Thanks for stopping by! 🌟
