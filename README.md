@@ -24,7 +24,7 @@ I'm a passionate tech enthusiast with a B.Tech in Information Technology. After 
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](www.linkedin.com/in/payalsharma04)  
+- 💼 [LinkedIn](https://www.linkedin.com/in/payalsharma04/)  
 - 🧠 [LeetCode](https://leetcode.com/u/payal_s04/)
 <!-- - 💻 [Portfolio Website](https://your-portfolio.com) *(if you have or plan to make one)* -->
 
