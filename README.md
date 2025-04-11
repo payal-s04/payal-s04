@@ -10,7 +10,7 @@ I'm a passionate tech enthusiast with a B.Tech in Information Technology. After 
 - Learning tools like **Pandas**, **NumPy**, **Matplotlib**, **Seaborn**, and **Scikit-learn**  
 - Improving my knowledge in **Statistics**, **Probability**, and **Machine Learning**  
 - Practicing Python & SQL for data manipulation and analysis  
-- Brushing up on **Data Structures & Algorithms** on LeetCode and CodeSignal
+- Brushing up on **Data Structures & Algorithms** on LeetCode
 
 ---
 
@@ -18,15 +18,15 @@ I'm a passionate tech enthusiast with a B.Tech in Information Technology. After 
 
 - 📊 Create a strong portfolio of data science projects  
 - 🧠 Contribute to open-source data science projects  
-- 💼 Land a Data Scientist role at a top company like **Google**
+- 💼 Land a Data Scientist role at a top tech company
 
 ---
 
 ### 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile-url)  
-- 🧠 [LeetCode](https://leetcode.com/your-profile)  
-- 💻 [Portfolio Website](https://your-portfolio.com) *(if you have or plan to make one)*  
+- 💼 [LinkedIn](www.linkedin.com/in/payalsharma04)  
+- 🧠 [LeetCode](https://leetcode.com/u/payal_s04/)
+*- 💻 [Portfolio Website](https://your-portfolio.com) *(if you have or plan to make one)**
 
 ---
 
